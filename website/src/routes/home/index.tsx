@@ -14,7 +14,7 @@ export default function Home() {
         <div className={styles.Des}>A Component Library for React 16+.</div>
         <div>
           <Link className={styles.AppLink} to="/guide/quick-start">
-            Getting Started
+            Getting Farted
           </Link>
           <Link className={styles.AppLink} to="/components">
             Components
